@@ -10,3 +10,8 @@ ReconX is a lightweight and easy-to-use OSINT tool designed for cybersecurity pr
 - IP Geolocation: Fetches location details (country, city, region, ISP) for IP addresses.
 - WHOIS Data: Retrieves registration details like registrar, creation/expiration dates, and name servers.
 - Simple & Fast: Quick setup with minimal dependencies for rapid reconnaissance.
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/ReconX.git
