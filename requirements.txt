@@ -1,2 +1,6 @@
 requests
-python-whois
+beautifulsoup4
+lxml
+dnspython
+whois
+ipwhois
