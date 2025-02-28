@@ -1,2 +1,12 @@
-# reconX
-ReconX is a simple yet powerful OSINT tool designed for cybersecurity pros and ethical hackers. It quickly gathers key intel on domains and IPs, including DNS details, geolocation, and WHOIS data, helping you uncover valuable insights with ease.
+# ReconX - OSINT Reconnaissance Tool #
+
+ReconX is a lightweight and easy-to-use OSINT tool designed for cybersecurity professionals, ethical hackers, and investigators. It helps you gather key intelligence on domains and IP addresses through **DNS resolution, IP geolocation, and WHOIS analysis**.
+
+---
+
+# Features #
+
+- DNS Resolution: Resolves domains to IP addresses.
+- IP Geolocation: Fetches location details (country, city, region, ISP) for IP addresses.
+- WHOIS Data: Retrieves registration details like registrar, creation/expiration dates, and name servers.
+- Simple & Fast: Quick setup with minimal dependencies for rapid reconnaissance.
